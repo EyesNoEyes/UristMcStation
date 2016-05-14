@@ -341,6 +341,7 @@
 #define mFingerprints  108 // No fingerprints.
 #define mShock         109 // Insulated hands.
 #define mSmallsize     110 // Table climbing.
+#define M_NOIR         205 // Noir color filter //imported here because it has to be read before mob code
 
 // disabilities
 #define NEARSIGHTED 1

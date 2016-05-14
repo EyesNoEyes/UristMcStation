@@ -774,3 +774,6 @@ default behaviour is:
 		return
 	..()
 
+/mob/living/Life()
+	..()
+	update_colour()
