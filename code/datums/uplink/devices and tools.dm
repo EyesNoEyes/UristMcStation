@@ -95,7 +95,7 @@
 
 /datum/uplink_item/item/tools/supply_beacon
 	name = "Hacked Supply Beacon (DANGER!)"
-	item_cost = 52
+	item_cost = 10
 	path = /obj/item/supply_beacon
 
 /datum/uplink_item/item/tools/camera_mask
